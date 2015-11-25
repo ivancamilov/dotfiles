@@ -7,4 +7,4 @@ curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.29.0/install.sh | b
 nvm install 4.2.2
 
 # Install common Node packages
-npm install ionic bower cordova gulp -g
+npm install ionic bower cordova gulp supervisor -g
