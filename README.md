@@ -1,2 +1,2 @@
 # dotfiles
-my dotfiles for Ubuntu
+my dotfiles for Ubuntu and MacOSX.
